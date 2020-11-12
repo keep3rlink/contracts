@@ -210,7 +210,7 @@ library SafeERC20 {
 }
 
 /* KP3RL – KP3RL.link */
-contract Keep4rToken is ERC20, ERC20Detailed {
+contract KP3RLToken is ERC20, ERC20Detailed {
     using SafeERC20 for IERC20;
     using Address for address;
     using SafeMath for uint;
